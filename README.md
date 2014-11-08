@@ -19,7 +19,7 @@ Getting interest every 9 days by storing coins in wallet is the best way to get 
 Get 0.3% interest at most even if the coin is older than 30 days.3.65% interest per year at most.
 Money Supply: 49370294812780 CENT now.
 
-For more information, as well as an immediately useable, binary version of the Litecoin client sofware, see http://www.penniescoins.org
+For more information, as well as an immediately useable, binary version of the Pennies client sofware, see http://www.penniescoins.org
 
 
 License
