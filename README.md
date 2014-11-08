@@ -10,7 +10,7 @@ Pennies [CENT] are a unique new cryptographic coin based on scrypt-jane without 
 No decimals, no micro units, each penny is 1 coin.
 Block Time: 60 seconds
 Confirmations: 6
-Scrypt Jane (YAC) based,POW/POS Currency
+Scrypt Jane,POW/POS Currency
 Non-divisible "token" based currency.
 Progressive diff adjusment, targeted N factor retargeting at 1 week.
 
