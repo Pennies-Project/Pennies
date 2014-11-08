@@ -1,7 +1,6 @@
-Pennies
+Pennies Core integration/staging tree
 =======
 
-Pennies source tree
 http://www.penniescoins.org
 Copyright (c) 2013-2014 Pennies Developers
 
